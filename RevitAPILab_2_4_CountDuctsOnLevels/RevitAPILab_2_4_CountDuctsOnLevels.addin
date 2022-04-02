@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_2_4_CountDuctsOnLevels.dll"</Assembly>
+		<AddInId>2B374274-A723-4175-A510-96674BC733DA</AddInId>
+		<FullClassName>RevitAPILab_2_4_CountDuctsOnLevels.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Поситать воздуховоды на 1 и 2 этаже отдельно</Text>
+	</AddIn>
+</RevitAddIns>
